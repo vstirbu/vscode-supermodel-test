@@ -1,7 +1,8 @@
 {
   "yaml.schemas": {
     "http://supermodel.io/vstirbu/CompliancePal/SoupDecisions": "/**/supermodel.yaml",
-    "http://json.schemastore.org/package": "schemastore.yaml"
+    "http://json.schemastore.org/package": "schemastore.yaml",
+    "http://localhost:8080/schema.json": "local.yaml"
   },
   "//http.proxy": "http://localhost:5555"
 }
