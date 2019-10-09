@@ -1,0 +1,6 @@
+{
+  "yaml.schemas": {
+    "http://supermodel.io/vstirbu/CompliancePal/SoupDecisions": "/**/supermodel.yaml"
+  },
+  "http.proxy": "http://localhost:5555"
+}
